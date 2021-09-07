@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To do List</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="label_title">Título</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_AtividadesFisicas">Atividades Físicas</string>
+    <string name="label_todo">TODO</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_task">Ops! Você não possui \n nenhuma atividade</string>
+</resources>
